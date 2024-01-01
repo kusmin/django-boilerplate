@@ -7,7 +7,7 @@ ask-sdk-dynamodb-persistence-adapter==1.18.0
 ask-sdk-model==1.58.0
 ask-sdk-runtime==1.18.0
 async-timeout==4.0.2
-attrs==22.2.0
+attrs==23.2.0
 boto3==1.26.104
 botocore==1.29.104
 certifi==2023.7.22
